@@ -24,5 +24,4 @@ Repozytorium utworzone w ramach ćwiczeń z Git i GitHub.
 
 ---
 
-**Autor:** Maksymilian Zakrzewski dsw56166
 **Data utworzenia:** 14.04.2025  
